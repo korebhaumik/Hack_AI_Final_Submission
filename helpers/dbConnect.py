@@ -7,7 +7,7 @@ import pymongo
 
 dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)
-MONGOURI = os.getenv("MONGOURI")
+MONGOURI = os.environ.get("MONGOURI")
 
 print(MONGOURI)
 
@@ -24,3 +24,4 @@ except Exception as e:
     print(e)
 
 bookCollection = client.hackai.bookstore
+purchasesCollection = client.hackai.purchases
