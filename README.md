@@ -77,9 +77,9 @@ Our platform's multi-layered, AI-driven approach not only boosts efficiency and 
 
 ## Implementation
 
-  
+https://github.com/korebhaumik/Hack_AI_Final_Submission/assets/96487647/a28657af-aa6f-43d3-bc4a-e01e07fc0289
 
-// Video
+
 
   
 
@@ -104,8 +104,8 @@ This video showcases the seamless integration of multiple AI agents in our innov
 ## Mind-Boggling Features
 
   
+<img width="1776" alt="fetch_ai_dia" src="https://github.com/korebhaumik/Hack_AI_Final_Submission/assets/96487647/f06ab926-3341-47ae-ba61-b22f092b67a6">
 
-// Flowchart
 
 1.  *Innovative Problem-Solving*: Our approach utilizes a unique blend of AI agents, each expertly tailored to address specific aspects of e-commerce challenges, ensuring comprehensive solutions.
 
